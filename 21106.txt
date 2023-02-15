@@ -4,7 +4,7 @@
 1.	Use recently created directory as a workspace for eclipse.
 2.	Create a project named "CTISA". Write a program for that calculates area of a rectangle, 
 	and write a unit test for the same. (Formula ---> Area = length * breadth).			(3)
-3.	Write proper documentation for the above class and 
+3.	Write a deatailed documentation for the above code and 
 	generate documentation in html format.								(3)
 4.	Save your progress in a local repository.							(1)
 5.	Create a new branch named your "rollnumber_sol". eg. "19000_sol".				(0.5)
